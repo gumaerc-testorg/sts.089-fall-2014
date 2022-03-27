@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f00c1e0-5f09-4ced-794b-5eb7ab6ed613
 resourcetype: Document
 title: 'STS.089 Lecture 22: Books & Letters'
 uid: 7d61265e-e2b5-e748-8999-e383c4106b7b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f00c1e0-5f09-4ced-794b-5eb7ab6ed613
 resourcetype: Document
 title: 'STS.089 Lecture 13: Pre-Colonial African Cities'
 uid: 848fc512-b7fd-a26e-ef30-76a1c3ea508e

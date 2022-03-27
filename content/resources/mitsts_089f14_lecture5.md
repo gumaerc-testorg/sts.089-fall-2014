@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f00c1e0-5f09-4ced-794b-5eb7ab6ed613
 resourcetype: Document
 title: 'STS.089 Lecture 5: Textiles'
 uid: d372691a-3baf-85db-e413-0d442fdcc370

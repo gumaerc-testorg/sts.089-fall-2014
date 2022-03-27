@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f00c1e0-5f09-4ced-794b-5eb7ab6ed613
 resourcetype: Document
 title: 'STS.089 Lecture 21: Bibles'
 uid: 1bbb4e87-ad8a-27d3-208c-6b0268e3f5ea

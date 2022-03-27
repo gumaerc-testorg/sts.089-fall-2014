@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3f00c1e0-5f09-4ced-794b-5eb7ab6ed613
 resourcetype: Document
 title: 'STS.089 Lecture 4: Food Production in Africa'
 uid: 5c78752c-cf8e-b054-a292-dd6c21ec79e8
