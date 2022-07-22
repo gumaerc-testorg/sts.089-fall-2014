@@ -6,6 +6,7 @@ file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/a0562d0a6ec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'STS.089 Lecture 11: Mining & Metallurgy'
 uid: a0562d0a-6ecb-3e13-8f43-ad3b023627df
 ---
 This is a resource file that contains information regarding lecture 11 mining and metallurgy.
-

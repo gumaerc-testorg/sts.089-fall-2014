@@ -15,10 +15,10 @@ image_metadata:
     \ is made out of an old Castrol oil can, which has been painted with South African\
     \ colors (black, green, and red)."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-089f14-th.jpg
 uid: 989b7c9d-9256-3e52-2314-e97da99d8dc7
 ---
 After the introduction of oil cans by European settlers, South Africans began to incorporate them into their culture in various ways, such as for the body of an electric guitar. Original photograph by Karen McAllister on flickr.
-

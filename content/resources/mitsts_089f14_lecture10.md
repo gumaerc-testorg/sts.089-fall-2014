@@ -6,6 +6,7 @@ file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/5dffa40db62
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'STS.089 Lecture 10: The Crafts of Witches'
 uid: 5dffa40d-b62e-c3f5-706f-8f685cc65136
 ---
 This is a resource file that contains information regarding lecture 10 the crafts of witches.
-

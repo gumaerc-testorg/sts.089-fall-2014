@@ -6,6 +6,7 @@ file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/1d29033bbc3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'STS.089 Lecture 8: Music'
 uid: 1d29033b-bc32-a7f3-2076-21ffdd4d0636
 ---
 This is a resource file that contains information regarding lecture 8 music.
-

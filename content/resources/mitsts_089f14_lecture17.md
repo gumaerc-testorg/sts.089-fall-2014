@@ -6,6 +6,7 @@ file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/4b311f407c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'STS.089 Lecture 17: Leadership & Culture'
 uid: 4b311f40-7c29-ee07-f954-20917319bddd
 ---
 This is a resource file that contains information regarding lecture 17 leadership and culture.
-

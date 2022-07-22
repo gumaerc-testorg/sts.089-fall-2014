@@ -6,6 +6,7 @@ file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/7d61265ee2b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'STS.089 Lecture 22: Books & Letters'
 uid: 7d61265e-e2b5-e748-8999-e383c4106b7b
 ---
 This is a resource file that contains information regarding lecture 22 books and letters.
-
