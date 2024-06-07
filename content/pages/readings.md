@@ -47,9 +47,9 @@ How Not to Talk about Africa
 {{< tdopen >}}
 
 
-Wainaina, Binyavanga. "{{% resource_link "29b92d8c-2912-438c-815e-b7c5e40d862c" "How To Write About Africa" %}}." _Granta_.
+Wainaina, Binyavanga. "[How To Write About Africa](http://www.granta.com/Archive/92/How-to-Write-about-Africa/Page-1)." _Granta_.
 
-Achebe, Chinua. "{{% resource_link "59dfead1-3bf5-43ec-8c6c-31ace0c7751a" "An Image of Africa" %}}." _Research in African Literatures_ 9, no. 1 (1978): 1–15.
+Achebe, Chinua. "[An Image of Africa](http://www.jstor.org/stable/3818468)." _Research in African Literatures_ 9, no. 1 (1978): 1–15.
 
 
 {{< tdclose >}}
@@ -63,7 +63,7 @@ Achebe, Chinua. "{{% resource_link "59dfead1-3bf5-43ec-8c6c-31ace0c7751a" "An Im
 Technology & Innovation—In 'Africa'?
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "ce885b18-5bd9-47d0-a327-20c0ca87c208" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mavhunga, Clapperton. "Introduction." From _Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe_. MIT Press, 2014. ISBN: 9780262027243.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027243) Mavhunga, Clapperton. "Introduction." From _Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe_. MIT Press, 2014. ISBN: 9780262027243.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Technology & Innovation—In 'Africa'?
 Food Production in Africa
 {{< tdclose >}}
 {{< tdopen >}}
-Carney, Judith A. "{{% resource_link "275c8cb6-f8f6-4538-99fa-35d7c1a86c58" "African Rice in the Columbian Exchange" %}}." _The Journal of African History_ 42, no. 3 (2001): 377–96.
+Carney, Judith A. "[African Rice in the Columbian Exchange](http://dx.doi.org/10.1017/S0021853701007940)." _The Journal of African History_ 42, no. 3 (2001): 377–96.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Carney, Judith A. "{{% resource_link "275c8cb6-f8f6-4538-99fa-35d7c1a86c58" "Afr
 Textiles
 {{< tdclose >}}
 {{< tdopen >}}
-Kriger, Colleen E. "{{% resource_link "a30ab64f-3584-4485-b9f0-2a1ab2885780" "Mapping the History of Cotton Textile Production in Precolonial West Africa" %}}." _African Economic History,_ no. 33 (2005): 87–116.
+Kriger, Colleen E. "[Mapping the History of Cotton Textile Production in Precolonial West Africa](http://www.jstor.org/stable/4617606)." _African Economic History,_ no. 33 (2005): 87–116.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +101,9 @@ Beer Brewing
 {{< tdopen >}}
 
 
-Carlson, Robert G. "{{% resource_link "9160bf7a-5ab0-4003-ae49-88d0ce787c66" "Banana Beer, Reciprocity, and Ancestor Propitiation among the Haya of Bukoba, Tanzania" %}}." _Ethnology_ 29, no. 4 (1990): 297–311.
+Carlson, Robert G. "[Banana Beer, Reciprocity, and Ancestor Propitiation among the Haya of Bukoba, Tanzania](http://www.jstor.org/stable/3773600)." _Ethnology_ 29, no. 4 (1990): 297–311.
 
-Davison, Patricia. "{{% resource_link "986a22e5-6247-46ce-b1bb-ef2ab8b331ba" "Southern African Beer Pots" %}}." _African Arts_ 18, no. 3 (1985): 74–7 & 98.
+Davison, Patricia. "[Southern African Beer Pots](http://www.jstor.org/stable/3336359)." _African Arts_ 18, no. 3 (1985): 74–7 & 98.
 
 
 {{< tdclose >}}
@@ -129,7 +129,7 @@ No Reading
 Music
 {{< tdclose >}}
 {{< tdopen >}}
-Johnston, Thomas F. "{{% resource_link "d6142c01-f795-4fc2-865b-ec1e476ff3bd" "The Role of Music within the Context of an African Social Beer–Drink" %}}." _International Review of the Aesthetics and Sociology of Music_ 5, no. 2 (1974): 291–311.
+Johnston, Thomas F. "[The Role of Music within the Context of an African Social Beer–Drink](http://www.jstor.org/stable/836570)." _International Review of the Aesthetics and Sociology of Music_ 5, no. 2 (1974): 291–311.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Johnston, Thomas F. "{{% resource_link "d6142c01-f795-4fc2-865b-ec1e476ff3bd" "T
 The Climate Engineers: Making Rain in Africa?
 {{< tdclose >}}
 {{< tdopen >}}
-Muguti, Tasara, and Richard Shadreck Maposa. {{% resource_link "5ced0e2d-9a5b-46cc-abc2-b62440b35059" "\"Indigenous Weather Forecasting: A Phenomenological Study Engaging the Shona of Zimbabwe.\" (PDF)" %}} _The Journal of Pan African Studies_ 4, no. 9 (2012).
+Muguti, Tasara, and Richard Shadreck Maposa. ["Indigenous Weather Forecasting: A Phenomenological Study Engaging the Shona of Zimbabwe." (PDF)](http://www.jpanafrican.org/docs/vol4no9/4.9Indigenous.pdf) _The Journal of Pan African Studies_ 4, no. 9 (2012).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Muguti, Tasara, and Richard Shadreck Maposa. {{% resource_link "5ced0e2d-9a5b-46
 The Crafts of Witches
 {{< tdclose >}}
 {{< tdopen >}}
-Masquelier, Adeline. "{{% resource_link "70e35b1f-1784-48aa-9f9b-530bfaeb91d0" "Lightning, Death and the Avenging Spirits: 'Bori' Values in a Muslim World" %}}." _Journal of Religion in Africa_ 24, no. 1 (1994): 2–51.
+Masquelier, Adeline. "[Lightning, Death and the Avenging Spirits: 'Bori' Values in a Muslim World](http://www.jstor.org/stable/1581373)." _Journal of Religion in Africa_ 24, no. 1 (1994): 2–51.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ Masquelier, Adeline. "{{% resource_link "70e35b1f-1784-48aa-9f9b-530bfaeb91d0" "
 Mining & Metallurgy
 {{< tdclose >}}
 {{< tdopen >}}
-Wright, Marcia. "{{% resource_link "109b126d-20aa-4572-81ec-17ec0bfe1db8" "Life and Technology in Everyday Life: Reflections on the Career of Mzee Stefano, Master Smelter in Ufipa, Tanzania" %}}." _Journal of African Cultural Studies_ 15, no. 1 (2002): 17–34.
+Wright, Marcia. "[Life and Technology in Everyday Life: Reflections on the Career of Mzee Stefano, Master Smelter in Ufipa, Tanzania](http://www.jstor.org/stable/3181402)." _Journal of African Cultural Studies_ 15, no. 1 (2002): 17–34.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +177,7 @@ Wright, Marcia. "{{% resource_link "109b126d-20aa-4572-81ec-17ec0bfe1db8" "Life 
 African Entrepreneurship
 {{< tdclose >}}
 {{< tdopen >}}
-Henige, David. "{{% resource_link "84ff9fab-e28e-46b4-a8bc-0e60f7b821de" "John Kabes of Komenda: An Early African Entrepreneur and State Builder" %}}." _The Journal of African History_ 18, no. 1 (1977): 1–19.
+Henige, David. "[John Kabes of Komenda: An Early African Entrepreneur and State Builder](http://dx.doi.org/10.1017/S0021853700015206)." _The Journal of African History_ 18, no. 1 (1977): 1–19.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,9 +191,9 @@ Pre–colonial African Cities
 {{< tdopen >}}
 
 
-Bent, J. Theodore. "{{% resource_link "97910eef-587d-47bd-a4a0-ce466e68c8b9" "The Ruins of Mashonaland, and Explorations in the Country" %}}." _Proceedings of the Royal Geographical Society and Monthly Record of Geography_, New Monthly Series 14, no. 5 (1892): 273–98.
+Bent, J. Theodore. "[The Ruins of Mashonaland, and Explorations in the Country](http://www.jstor.org/stable/1801545)." _Proceedings of the Royal Geographical Society and Monthly Record of Geography_, New Monthly Series 14, no. 5 (1892): 273–98.
 
-Video: Professor Gloria Emeagwali. "Innovation and Indigenous Technology in Great Zimbabwe." Vimeo. {{% resource_link "3f5a2d49-514a-4934-9e68-4cda3be63a38" "http://vimeo.com/112103461" %}}.
+Video: Professor Gloria Emeagwali. "Innovation and Indigenous Technology in Great Zimbabwe." Vimeo. [http://vimeo.com/112103461](http://vimeo.com/112103461).
 
 
 {{< tdclose >}}
@@ -207,7 +207,7 @@ Video: Professor Gloria Emeagwali. "Innovation and Indigenous Technology in Grea
 Biochemistry
 {{< tdclose >}}
 {{< tdopen >}}
-Schapera, I. "{{% resource_link "4e31db3b-cdca-467a-986a-5aefbba13f76" "Bows and Arrows of the Bushmen" %}}." _Man_ 27 (1927): 113–17.
+Schapera, I. "[Bows and Arrows of the Bushmen](http://www.jstor.org/stable/2787413)." _Man_ 27 (1927): 113–17.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +219,7 @@ Schapera, I. "{{% resource_link "4e31db3b-cdca-467a-986a-5aefbba13f76" "Bows and
 Ecology
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "ce885b18-5bd9-47d0-a327-20c0ca87c208" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mavhunga, Clapperton. "The Professoriate of the Hunt." From _Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe_. MIT Press, 2014. ISBN: 9780262027243.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027243) Mavhunga, Clapperton. "The Professoriate of the Hunt." From _Transient Workspaces: Technologies of Everyday Innovation in Zimbabwe_. MIT Press, 2014. ISBN: 9780262027243.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +231,7 @@ Ecology
 Medicine
 {{< tdclose >}}
 {{< tdopen >}}
-Motlhanka, D. M. T., and G. P. Nthoiwa. "{{% resource_link "783b22f1-5e99-46c9-801a-9188de564a93" "Ethnobotanical Survey of Medicinal Plants of Tswapong North, in Eastern Botswana: A Case of Plants from Mosweu and Seolwane Villages" %}}." _European Journal of Medicinal Plants_ 3, no. 1 (2003): 10–24.
+Motlhanka, D. M. T., and G. P. Nthoiwa. "[Ethnobotanical Survey of Medicinal Plants of Tswapong North, in Eastern Botswana: A Case of Plants from Mosweu and Seolwane Villages](http://dx.doi.org/10.9734/EJMP/2013/1871)." _European Journal of Medicinal Plants_ 3, no. 1 (2003): 10–24.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +243,7 @@ Motlhanka, D. M. T., and G. P. Nthoiwa. "{{% resource_link "783b22f1-5e99-46c9-8
 Leadership & Culture
 {{< tdclose >}}
 {{< tdopen >}}
-Crowder, Michael. "{{% resource_link "f2593fa9-3398-4460-84cf-242256b5e200" "Indirect Rule: French and British Style" %}}." _Africa: Journal of the International African Institute_ 34, no. 3 (1964): 197–205.
+Crowder, Michael. "[Indirect Rule: French and British Style](http://dx.doi.org/10.2307/1158021)." _Africa: Journal of the International African Institute_ 34, no. 3 (1964): 197–205.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +267,7 @@ No Reading
 The Horse
 {{< tdclose >}}
 {{< tdopen >}}
-Fisher, Humphrey J. "{{% resource_link "f09fa864-ee07-4d3a-ab36-c5d345aed98d" "'He Swalloweth the Ground with Fierceness and Rage': The Horse in the Central Sudan" %}}." _The Journal of African History_ 14, no. 3 (1973): 355–79.
+Fisher, Humphrey J. "['He Swalloweth the Ground with Fierceness and Rage': The Horse in the Central Sudan](http://dx.doi.org/10.1017/S0021853700012779)." _The Journal of African History_ 14, no. 3 (1973): 355–79.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,7 +279,7 @@ Fisher, Humphrey J. "{{% resource_link "f09fa864-ee07-4d3a-ab36-c5d345aed98d" "'
 The Gun
 {{< tdclose >}}
 {{< tdopen >}}
-Macola, Giacomo. "{{% resource_link "a839d2c5-1dac-44e5-a918-57b6470cebe1" "Reassessing the Significance of Firearms in Central Africa: The Case of North–Western Zambia to the 1920s" %}}." _The Journal of African History_ 51, no. 3 (2010): 301–21.
+Macola, Giacomo. "[Reassessing the Significance of Firearms in Central Africa: The Case of North–Western Zambia to the 1920s](http://dx.doi.org/10.1017/S0021853710000538)." _The Journal of African History_ 51, no. 3 (2010): 301–21.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +291,7 @@ Macola, Giacomo. "{{% resource_link "a839d2c5-1dac-44e5-a918-57b6470cebe1" "Reas
 Bibles
 {{< tdclose >}}
 {{< tdopen >}}
-Chirenje, J. Mutero. "{{% resource_link "3f6c52d6-6e30-4ce9-abd8-5cec7c1ea1c4" "Church, State, and Education in Bechuanaland in the Nineteenth Century" %}}." _The International Journal of African Historical Studies_ 9, no. 3 (1976): 401–18.
+Chirenje, J. Mutero. "[Church, State, and Education in Bechuanaland in the Nineteenth Century](http://www.jstor.org/stable/216845)." _The International Journal of African Historical Studies_ 9, no. 3 (1976): 401–18.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +303,7 @@ Chirenje, J. Mutero. "{{% resource_link "3f6c52d6-6e30-4ce9-abd8-5cec7c1ea1c4" "
 Books & Letters
 {{< tdclose >}}
 {{< tdopen >}}
-Adeboye, Olufunke. "{{% resource_link "44631311-2c4f-4360-91bf-29e60706e031" "Reading the Diary of Akinpelu Obisesan in Colonial Africa" %}}." _African Studies Review_ 51, no. 2 (2008): 75–97.
+Adeboye, Olufunke. "[Reading the Diary of Akinpelu Obisesan in Colonial Africa](http://dx.doi.org/10.1353/arw.0.0074)." _African Studies Review_ 51, no. 2 (2008): 75–97.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +315,7 @@ Adeboye, Olufunke. "{{% resource_link "44631311-2c4f-4360-91bf-29e60706e031" "Re
 Media
 {{< tdclose >}}
 {{< tdopen >}}
-Lekgoathi, Sekibakiba Peter. "{{% resource_link "a3f44340-b69b-448f-b739-58e81e95422d" "You are Listening to Radio Lebowa of the South African Broadcasting Corporation: Vernacular Radio, Bantustan Identity and Listenership, 1960–1994" %}}." _Journal of Southern African Studies_ 35, no. 3 (2009): 575–94.
+Lekgoathi, Sekibakiba Peter. "[You are Listening to Radio Lebowa of the South African Broadcasting Corporation: Vernacular Radio, Bantustan Identity and Listenership, 1960–1994](http://dx.doi.org/10.1080/03057070903101821)." _Journal of Southern African Studies_ 35, no. 3 (2009): 575–94.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -327,7 +327,7 @@ Lekgoathi, Sekibakiba Peter. "{{% resource_link "a3f44340-b69b-448f-b739-58e81e9
 The Cellphone in Africa
 {{< tdclose >}}
 {{< tdopen >}}
-Hahn, Hans Peter, and Ludovic Kibora. "{{% resource_link "f76d2a11-bf43-491a-8153-522f89e0819c" "The Domestication of the Mobile Phone: Oral Society and New ICT in Burkina Faso" %}}." _The Journal of Modern African Studies_ 46, no. 1 (2008): 87–109.
+Hahn, Hans Peter, and Ludovic Kibora. "[The Domestication of the Mobile Phone: Oral Society and New ICT in Burkina Faso](http://dx.doi.org/10.1017/S0022278X07003084)." _The Journal of Modern African Studies_ 46, no. 1 (2008): 87–109.
 {{< tdclose >}}
 
 {{< trclose >}}

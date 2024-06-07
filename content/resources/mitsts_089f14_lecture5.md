@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding lecture 5
   textiles.
 file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/d372691a3baf85dbe4130d442fdcc370_MITSTS_089F14_Lecture5.pdf
+file_size: 166876
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: After the introduction of oil cans by European settlers, South Africans
     began to incorporate them into their culture in various ways, such as for the
-    body of an electric guitar. (Original photograph by {{% resource_link "4ead80ff-259d-4637-ba96-48f00cf415e3"
-    "Karen McAllister" %}} on flickr. CC BY-NC-SA 2.0)
+    body of an electric guitar. (Original photograph by [Karen McAllister](https://www.flickr.com/photos/karen_mcallister_photography/1623253459/in/set-72157602509304283)
+    on flickr. CC BY-NC-SA 2.0)
   credit: Original photograph by Karen McAllister on flickr.
   image-alt: "A picture of a man playing an electric guitar. The guitar\u2019s body\
     \ is made out of an old Castrol oil can, which has been painted with South African\
