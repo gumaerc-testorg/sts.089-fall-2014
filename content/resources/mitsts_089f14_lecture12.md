@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 12
   african entrepreneurship.
-file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/070692d7f064897c39ef9ea952e78169_MITSTS_089F14_Lecture12.pdf
+file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/070692d7f064897c39ef9ea952e78169_MITSTS_089F14_Lecture12.pdf
 file_size: 182926
 file_type: application/pdf
 learning_resource_types:
