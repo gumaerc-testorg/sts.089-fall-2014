@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 4
   food production in africa.
-file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/5c78752ccf8eb054a292dd6c21ec79e8_MITSTS_089F14_Lecture4.pdf
+file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/5c78752ccf8eb054a292dd6c21ec79e8_MITSTS_089F14_Lecture4.pdf
 file_size: 172295
 file_type: application/pdf
 learning_resource_types:
