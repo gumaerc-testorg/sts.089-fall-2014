@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 8
   music.
-file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/1d29033bbc32a7f3207621ffdd4d0636_MITSTS_089F14_Lecture8.pdf
+file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/1d29033bbc32a7f3207621ffdd4d0636_MITSTS_089F14_Lecture8.pdf
 file_size: 134620
 file_type: application/pdf
 learning_resource_types:
