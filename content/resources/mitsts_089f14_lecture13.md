@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 13pre-colonial
   african cities.
-file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/848fc512b7fda26eef3076a1c3ea508e_MITSTS_089F14_Lecture13.pdf
+file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/848fc512b7fda26eef3076a1c3ea508e_MITSTS_089F14_Lecture13.pdf
 file_size: 191604
 file_type: application/pdf
 learning_resource_types:

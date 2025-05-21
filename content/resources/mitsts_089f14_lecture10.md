@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 10
   the crafts of witches.
-file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/5dffa40db62ec3f5706f8f685cc65136_MITSTS_089F14_Lecture10.pdf
+file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/5dffa40db62ec3f5706f8f685cc65136_MITSTS_089F14_Lecture10.pdf
 file_size: 168818
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: After the introduction of oil cans by European settlers, South Africans
   began to incorporate them into their culture in various ways, such as for the body
   of an electric guitar. Original photograph by Karen McAllister on flickr.
-file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/989b7c9d92563e522314e97da99d8dc7_sts-089f14-th.jpg
+file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/989b7c9d92563e522314e97da99d8dc7_sts-089f14-th.jpg
 file_size: 11990
 file_type: image/jpeg
 image_metadata:
