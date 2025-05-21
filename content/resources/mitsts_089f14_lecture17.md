@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 17
   leadership and culture.
-file: /ol-ocw-studio-app/courses/sts-089-technology-and-innovation-in-africa-fall-2014/4b311f407c29ee07f95420917319bddd_MITSTS_089F14_Lecture17.pdf
+file: /courses/sts-089-technology-and-innovation-in-africa-fall-2014/4b311f407c29ee07f95420917319bddd_MITSTS_089F14_Lecture17.pdf
 file_size: 146219
 file_type: application/pdf
 learning_resource_types:
